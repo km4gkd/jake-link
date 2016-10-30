@@ -144,9 +144,9 @@
 <wire x1="37.77" y1="0" x2="37.77" y2="38.09" width="0" layer="20"/>
 <wire x1="37.77" y1="38.09" x2="0" y2="38.09" width="0" layer="20"/>
 <wire x1="0" y1="38.09" x2="0" y2="0" width="0" layer="20"/>
-<hole x="1.27" y="1.27" drill="0.6"/>
-<hole x="1.27" y="36.83" drill="0.6"/>
-<hole x="36.83" y="36.83" drill="0.6"/>
+<hole x="1.27" y="1.27" drill="1.4"/>
+<hole x="1.27" y="36.83" drill="1.4"/>
+<hole x="36.83" y="36.83" drill="1.4"/>
 <text x="36.83" y="7.62" size="1.778" layer="25" rot="R90">USB-LINK</text>
 <text x="36.83" y="24.13" size="1.778" layer="25" rot="R90">KM4GKD</text>
 <text x="1.27" y="33.02" size="1.778" layer="25">V1.0</text>
